@@ -4,7 +4,7 @@ Counter- Element of website- Vue.js
 
 # Eduweb Course - Counter
 
-![Design preview for simple counter element](./design/desktop-preview.jpg)
+![Design preview for simple counter element](https://github.com/Linderinn/Course_Vue_Project_001_Counter/blob/main/counter1.JPG)
 
 ## Welcome! 👋
 
