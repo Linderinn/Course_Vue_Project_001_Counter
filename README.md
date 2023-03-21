@@ -1,4 +1,4 @@
-# Course_Vue_Project_001_Counter
+# Course Vue Project 001 Counter
 Counter- Element of website- Vue.js
 
 
